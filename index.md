@@ -338,6 +338,8 @@ change the value of `carpentry` to `incubator`.
 
 <hr/>
 
+<a href="https://hcc.unl.edu/nextflow-2024-workshop-links">Workshop Links for August and September</a>
+
 
 {% comment %}
 SCHEDULE
